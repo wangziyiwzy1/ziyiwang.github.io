@@ -8,7 +8,7 @@ School of Electronic and Information Engineering
 
 Beihang University
 
-Email:wangziyi[at]buaa[dot]edu[dot]cn
+Email: wangziyi[at]buaa[dot]edu[dot]cn
 
 ### Research Interest
 
